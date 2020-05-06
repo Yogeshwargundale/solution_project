@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 //step form demo
-class Demo extends React.Component {
+class Demo extends Component {
     constructor(props) {
       super(props);
       this.state = {
